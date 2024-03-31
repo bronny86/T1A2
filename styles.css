@@ -1,0 +1,14 @@
+* {margin: 0;}
+
+header {background-color: blueviolet;
+        height: 10dvh;}
+
+        body {display: flex;
+                flex-direction: column;
+                background-color: aquamarine;}
+
+footer {background-color: blueviolet;
+        height: 5dvh;
+}
+
+main {min-height: 85dvh;}

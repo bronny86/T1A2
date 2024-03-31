@@ -29,6 +29,20 @@ header {
         align-items: center;
     }
 
+nav > a {
+
+            text-decoration: none;
+            background-color: var(--baby-powder);
+            color: var(--black);
+            padding: 0.25em;
+            border-radius: 0.5em;
+    }
+
+nav > a:hover {
+
+        background-color: var(--vista-blue);
+}
+
 body {
     
                 display: flex;
@@ -40,15 +54,33 @@ body {
 
 footer {
     
-        background-color: var(--vista-blue);
-        height: 5dvh;
+        background-color: var(--baby-powder);
+        height: 10dvh;
         width: 100%;
-            text-align: center;
+        text-align: center;
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        justify-content: center;
+        align-items: center;
+        margin-top: auto;
+}
+
+#social_links {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    margin: 1rem 0 1rem;
+    padding-top: 1rem;
+    border-top: 2px black solid;
+    margin-top:auto;
 }
 
 main {
         width: 100dvw;
-        min-height: 85dvh;
+        min-height: 80dvh;
         display: flex;
         flex-direction: column;
         justify-content: center;

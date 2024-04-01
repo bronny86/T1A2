@@ -70,10 +70,15 @@
 
                 flex-direction: row;
                 flex-wrap: wrap;
-        }
+                justify-content: center;
+                align-items: center;
+
+
+                    }
 
         .blogpreview {
                 width: 30dvw;
+                margin: 1em;
         }
 }
     

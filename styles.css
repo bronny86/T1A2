@@ -101,7 +101,7 @@ main > a {
 
 main > img {
 
-            height: 70dvh;
+            height: 50vh;
             border-radius: 60%;
             margin: 2em;
             background-color: var(--raw-umber);

@@ -82,6 +82,7 @@ footer {
 }
 
 main {
+
         width: 100dvw;
         min-height: 80dvh;
         display: flex;
@@ -101,15 +102,6 @@ main > a {
 }
 
 
-main > img {
-
-            height: 50vh;
-            border-radius: 60%;
-            margin: 2em;
-            background-color: var(--raw-umber);
-            color: var(--black);
-            object-fit: cover;
-        }
 
         .backtotop_navigation {
                 display: flex;

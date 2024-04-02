@@ -1,0 +1,12 @@
+main > img {
+
+
+        height: 50vh;
+        border-radius: 60%;
+        margin: 2em;
+        background-color: var(--raw-umber);
+        color: var(--black);
+        object-fit: cover;
+    }
+
+

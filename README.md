@@ -55,3 +55,38 @@ These preview cards show the blog post title, date published, a smaller version 
 ![Site Map](/README%20images/SiteMap.jpg)
 
 As shown in the above diagram the Home/Index page links to all other pages - About, Projects, Blog and Contact - these page links appear in the head Nav Bar on every page. The About page has a link to download my CV and the main Blog page links to all individual blog post pages.
+
+# Mobile Wireframes
+
+![Mobile Wireframes](/README%20images/Mobile%20Wireframe%20Portfolio%20Website.jpg)
+
+Mobile Wireframes showing pages in this order:
+
+- Home
+- About Me
+- Projects
+- Blog Main Page
+- Blog post page
+- Contact Me 
+
+All pages have the same Nav Bar header, Back to Top button above footer, and footer with social media icon links.
+
+The flipcards on the Projects page and Blog Preview cards on the Blog main page are in the column format so they appear underneath each other in this smaller screen format.
+
+# Desktop Wireframes
+
+![Desktop Wireframes](/README%20images/Desktop%20Wireframes%20Portfolio%20Website.jpg)
+
+Desktop Wireframes showing pages in this order:
+
+- Home
+- About Me
+- Projects
+- Blog Main Page
+- Blog Post Page
+- Contact Me
+
+All pages have the same Nav Bar header, Back to Top button above footer and footer with social media icon links.
+
+The flipcards on the Projects page and Blog Preview cards on the Blog main page are in the row format so they appear next to each other in this bigger screen format.
+

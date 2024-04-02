@@ -32,3 +32,4 @@ Appears as the header on every page and provides links to all other main pages, 
 - Netlify
 - GitHub
 - MarkDown
+- VS Code

@@ -71,6 +71,17 @@
     object-fit: cover;
   }
 
+  .flip-card {
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    row-gap: 1em;
+    margin: 2em;
+    padding: 1em;
+  }
+
   .contentRow {
     display: flex;
     flex-direction: column;

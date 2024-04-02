@@ -8,9 +8,27 @@ Although the 'Projects' and 'Blog' sections are currently made up of place-holde
 
 ## Functionality and Features:
 
-I went into the design process with accessibility at the front of my mind, researching accessible color palettes and the most accessible fonts which is what lead to my choosing the font 'Poppins'from Google Fonts and a color palette featuring contrasting colors.
+I went into the design process with accessibility at the front of my mind, researching accessible color palettes on (https://venngage.com) and the most accessible fonts which is what lead to my choosing the font 'Poppins'from Google Fonts and a color palette featuring contrasting colors.
 
 ### Nav Bar -
 
 Appears as the header on every page and provides links to all other main pages, each button changes color when hovered over
 
+### Back To Top Button
+
+### Footer With Social Media Links
+
+### Contact Me Form
+
+### Flip Cards
+
+### Blog Preview Cards
+
+# Tech Stack Used:
+
+- HTML5
+- CSS3
+- Figma
+- Netlify
+- GitHub
+- MarkDown

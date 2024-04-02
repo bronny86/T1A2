@@ -1,5 +1,11 @@
 # Bronny's Portfolio Website (T1A2)
 
+# Links:
+
+[GitHub Repo](https://github.com/bronny86/T1A2)
+
+[Deployed Site](https://rad-jalebi-00d4f6.netlify.app/)
+
 ## Purpose and Target Audience:
 
 The purpose of this website is to showcase my skills and abilities as an aspiring web developer for an audience of potential employers for work opportunities and fellow developers for networking purposes.
@@ -43,3 +49,9 @@ These preview cards show the blog post title, date published, a smaller version 
 - GitHub
 - MarkDown
 - VS Code
+
+# Site Map:
+
+![Site Map](/README%20images/SiteMap.jpg)
+
+As shown in the above diagram the Home/Index page links to all other pages - About, Projects, Blog and Contact - these page links appear in the head Nav Bar on every page. The About page has a link to download my CV and the main Blog page links to all individual blog post pages.

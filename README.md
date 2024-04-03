@@ -90,3 +90,9 @@ All pages have the same Nav Bar header, Back to Top button above footer and foot
 
 The flipcards on the Projects page and Blog Preview cards on the Blog main page are in the row format so they appear next to each other in this bigger screen format.
 
+
+# Desktop Screenshots
+
+![Desktop Home Page](/README%20images/Desktop%20Screenshots/HomePageDesktop1.jpg)
+
+Rest of Desktop Screennshots [located here](/README%20images/Desktop%20Screenshots/)

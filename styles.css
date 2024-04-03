@@ -121,6 +121,8 @@
         font-weight: 900;
         font-style: italic;
       }
+
+  /*styling for header nav bar, positioning of buttons, colors*/
       
 
 header {
@@ -146,10 +148,14 @@ nav > a {
             border-radius: 0.5em;
     }
 
+  /*hover effect so that when hover over nav bar button will change color*/
+
 nav > a:hover {
 
         background-color: var(--vista-blue);
 }
+
+/*styling for main body*/
 
 body {
     
@@ -159,6 +165,8 @@ body {
                 justify-content: center;
                 align-items: center;
             }
+
+ /*styling for footer*/
 
 footer {
     
@@ -206,9 +214,9 @@ main > a {
         margin: 0;
 }
 
+/*styling for back to top icon and link*/
 
-
-        .backtotop_navigation {
+  .backtotop_navigation {
                 display: flex;
                 flex-direction: column;
                 align-items: center;
